@@ -2,7 +2,7 @@
 Materi Dan Tugas Informatika Teknologi Cloud
 # Siswa Kelas X TITL 2
 
-![Foto Profil](profil.jpeg)
+![Foto Profil](profil_xtitl2.jpeg)
 
 Saya adalah seorang siswa kelas X jurusan Teknik Instalasi Tenaga Listrik (TITL 2) di SMK Negeri 2 Lamongan yang memiliki ketertarikan besar pada bidang kelistrikan, instalasi bangunan, dan pemanfaatan teknologi digital.
 
@@ -16,7 +16,11 @@ Saya adalah seorang siswa kelas X jurusan Teknik Instalasi Tenaga Listrik (TITL 
 ## Proyek & Praktikum Unggulan
 
 - **Portofolio Web dengan GitHub Pages:** Tugas praktik membuat halaman portofolio online menggunakan GitHub untuk mempelajari penerapan teknologi Cloud Computing.
+## Formulir Umpan Balik / Absensi
 
+- [Isi Google Formulir di Sini](https://forms.gle/vueXFVnxZk38rNdb6)
+
+  
 ## Mata Pelajaran
 
 - **Mapel:** Informatika
